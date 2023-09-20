@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Управление вывозами</string>
+    <string name="app_name">Управление вывозами Эко</string>
 
     <string name="connectionPref">Настройки подключения</string>
     <string name="commonPref">Общие настройки</string>
